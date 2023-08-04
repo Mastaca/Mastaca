@@ -13,7 +13,7 @@ I’m currently working as Junior Java Developer on an online marketplace projec
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes"  alt="Kubernetes" width="50" height="50"/>&nbsp;
 </div>
 
-## <h3 align="left">I some experience with these languages and tools:</h3>
+## <h3 align="left">And I have some experience with these languages and tools:</h3>
 
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
