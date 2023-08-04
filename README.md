@@ -20,5 +20,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://linkedin.com/in/alin-f-4a68b1166](https://www.linkedin.com/in/edu%C3%A1rd-katyi-b1a75680)](https://www.linkedin.com/in/edu%C3%A1rd-katyi-b1a75680/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alin-f-4a68b1166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edi" height="30" width="40" /></a>
 </p>
