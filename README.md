@@ -1,7 +1,6 @@
-# <h1 align="center">Hi 👋, I'm Eddy!</h1>
+# <h1 align="center">Hi, I'm Eddy!</h1>
 
-
-- 🔭 I’m currently working as Junior Java Developer on **projects that help me apply everything I'm learning. Always learn by doing!**
+I’m currently working as Junior Java Developer on an online marketplace project with microservices.
 
 ## <h3 align="left">I have more experience with these languages and tools:</h3>
 
