@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Junior Java Developer on **projects that help me apply everything I'm learning. Always learn by doing!**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Experience with these languages and tools:</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
