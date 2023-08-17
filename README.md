@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Eddy!</h1>
+# <h1 align="left">Hi, I'm Edi!</h1>
 
 I’m currently working as Junior Java Developer on an online marketplace project with microservices.
 
